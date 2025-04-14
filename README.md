@@ -14,7 +14,7 @@ Getting Started🚀
 
 To run this project locally, follow these steps:
 1.⁠ ⁠Clone the repository
-``git clone https://github.com/your-username/Booking-Hotel-App.git``
+``https://github.com/Aynazkai/Booking-Hotel-App``
 
 2. Navigate into the project directory
  ``cd Booking-Hotel-App``
