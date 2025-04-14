@@ -4,18 +4,14 @@ Getting Started✨
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Hotel-Booking-App.git
+
    ``
-
-
    npm install
+    npm run dev
    ``
 
 
- npm run dev
-   ``
+
 
 
 Features🤍
