@@ -9,10 +9,13 @@ To run this project locally, follow these steps:
    git clone https://github.com/your-username/Hotel-Booking-App.git
    ``
 
-npm install
+
+   npm install
+   ``
 
 
-npm run dev
+ npm run dev
+   ``
 
 
 Features🤍
